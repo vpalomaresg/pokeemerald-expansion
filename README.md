@@ -1,4 +1,4 @@
-<h1 align=center>pokémon</h1>
+<h1 align=center>PoKéMoN</h1>
 
 <h1>Llista de coses que ha de tenir el Hack ROM</h1>
 
